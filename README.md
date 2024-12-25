@@ -8,11 +8,11 @@
 
 - 👯 I’m looking to collaborate on **Ai project**
 
-- 💬 Ask me about **react, angualar,vue**
+- 💬 Ask me about **react, angualar, vue**
 
 - 📫 How to reach me **nishant0660@gmail.com**
 
-- ⚡ Fun fact **Gamer**
+- ⚡ Fun fact **I'm a Gamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
