@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishant Singh</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 - 🔭 I’m currently working on **Support portal**
